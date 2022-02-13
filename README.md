@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# 簡易電梯系統實作
+
+用較出淺的方式完成（CodeStyle有點隨性）
+
+流程策略
+
+![Alternate text](./doc/strategy.png)
 ## Getting Started
 
 First, run the development server:
